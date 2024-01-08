@@ -1,0 +1,4 @@
+specVersion: 0.35.0
+name: pac-s2i-test
+runtime: node
+created: 2024-01-08T10:53:08.345608936-03:00
